@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         NGA网址重定向
 // @namespace    http://bbs.nga.cn/nuke.php?func=ucp&uid=9559415
-// @version      0.1.1
+// @version      0.2
 // @description  重定向NGA玩家社区的各种不同域名的网址到NGA.cn
 // @include      *://*.ngacn.cc/*
 // @include      *://nga.178.com/*
 // @include      *://ngabbs.com/*
-// @author       咕德 @ WoW-玛洛加尔-<蓝丨图>
+// @author       created by 咕德 @ WoW-玛洛加尔-<蓝丨图>, updated by Kennnnnnji
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
