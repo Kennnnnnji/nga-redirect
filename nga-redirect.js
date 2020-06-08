@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         NGA网址重定向
-// @namespace    http://bbs.nga.cn/nuke.php?func=ucp&uid=9559415
+// @name         NGA网址重定向2020
+// @namespace    https://github.com/Kennnnnnji/nga-redirect/blob/master/nga-redirect.js
 // @version      0.2
 // @description  重定向NGA玩家社区的各种不同域名的网址到NGA.cn
 // @include      *://*.ngacn.cc/*
